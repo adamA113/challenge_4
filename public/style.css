@@ -1,0 +1,13 @@
+.grid-container{
+    display: grid;
+	grid-gap: 20px 20px; 
+	grid-template-columns: auto auto auto;
+	grid-template-rows: auto auto auto;
+    justify-content: center;
+    align-content: center;
+}
+
+body{
+    background-color: blanchedalmond;
+    text-align: center
+}
